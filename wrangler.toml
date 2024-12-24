@@ -18,8 +18,8 @@ kv_namespaces = [
 
 [[r2_buckets]]
 binding = "CDN_BUCKET"
-bucket_name = "cdn"
-preview_bucket_name = "cdn"
+bucket_name = "desktopofsamuel-img"
+preview_bucket_name = "desktopofsamuel-img"
 
 [vars]
 REDIRECT_URL = "https://www.serenmodz.rocks"

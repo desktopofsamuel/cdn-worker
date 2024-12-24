@@ -7,9 +7,7 @@ account_id = "e92671ee3f768626ba9247b935e077d4"
 workers_dev = false
 
 routes = [
-    "cdn.serenmodz.rocks/*",
-    "cdn.ghosty.link/*",
-    "cdn.demonyuto.link/*"
+    "cdn.desktopofsamuel.com/*",
 ]
 
 kv_namespaces = [
